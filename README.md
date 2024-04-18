@@ -1,7 +1,7 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQEpdMGVhBdJxw/profile-displaybackgroundimage-shrink_350_1400/0/1631649906948?e=1637193600&v=beta&t=Dr_NzRjsZffyZ7Fgu5axS8eUK5iL1EFX7e3fv9C5HgU)]()
 <h1 align="center">Hi 👋, I'm Sahil Mehra - aka <a href="#" style="text-decoration: none;">nullr3x</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-nullr3x-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nullr3x/)](https://www.linkedin.com/in/nullr3x/) [![Twitter Follow](https://img.shields.io/twitter/follow/nullr3x?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/nullr3x/&screen_name=nullr3x) [![Twitter Follow](https://img.shields.io/github/followers/nullr3x?color=786d6d&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/nullr3x){:.centered}
+[![Linkedin Badge](https://img.shields.io/badge/-nullr3x-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nullr3x/)](https://www.linkedin.com/in/nullr3x/) [![Twitter Follow](https://img.shields.io/twitter/follow/nullr3x?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/nullr3x/&screen_name=nullr3x) [![Twitter Follow](https://img.shields.io/github/followers/nullr3x?color=786d6d&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/nullr3x)
 
 <h3 align="center">A passionate python developer and penetration tester from India</h3>
 <hr>
@@ -35,24 +35,5 @@
 
 <hr>
 
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
