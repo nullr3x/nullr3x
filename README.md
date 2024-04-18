@@ -8,9 +8,7 @@
 
 - 👨‍💻 You can also check out my [blog](https://nullr3x.medium.com)
 - 🌱 I’m currently learning everything 🤣
-- 📫 How to reach me **sahilmehra9896@gmail.com**
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and reading books
+- ⚡ Fun fact: I love to draw and read books
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nullr3x&label=Profile%20views&color=129e00&style=plastic" alt="nullrex" /> </p>-->
 
@@ -32,7 +30,7 @@
 
 <hr>
 
-### Some of my Github Stats
+### Some of my GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nullr3x&show_icons=true&locale=en&layout=compact" alt="nullr3x" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nullr3x&show_icons=true&locale=en" alt="nullr3x" /></p>  
 
 <hr
