@@ -33,9 +33,6 @@
 ### Some of my GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nullr3x&show_icons=true&locale=en&layout=compact" alt="nullr3x" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nullr3x&show_icons=true&locale=en" alt="nullr3x" /></p>  
 
-<hr
-
-<h3 align="left">Support:</h3>  
-<p><a href="https://www.buymeacoffee.com/nullr3x"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nullr3x" /></a></p><br><br>
+<hr>
 
 
