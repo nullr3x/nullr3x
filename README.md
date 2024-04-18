@@ -1,7 +1,7 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQEpdMGVhBdJxw/profile-displaybackgroundimage-shrink_350_1400/0/1631649906948?e=1637193600&v=beta&t=Dr_NzRjsZffyZ7Fgu5axS8eUK5iL1EFX7e3fv9C5HgU)]()
 <h1 align="center">Hi 👋, I'm Sahil Mehra - aka <a href="https://nullrex.com" style="text-decoration: none;">nullr3x</h1>
 
-[![Gmail Badge](https://img.shields.io/badge/-sahilmehra9896@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sahilmehra9896@gmail.com)](mailto:sahilmehra9896@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-nullr3x-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nullr3x/)](https://www.linkedin.com/in/nullr3x/) [![Twitter Follow](https://img.shields.io/twitter/follow/nullr3x?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/nullr3x/&screen_name=nullr3x) [![Twitter Follow](https://img.shields.io/github/followers/nullr3x?color=786d6d&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/nullr3x)
+[![Linkedin Badge](https://img.shields.io/badge/-nullr3x-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nullr3x/)](https://www.linkedin.com/in/nullr3x/) [![Twitter Follow](https://img.shields.io/twitter/follow/nullr3x?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/nullr3x/&screen_name=nullr3x) [![Twitter Follow](https://img.shields.io/github/followers/nullr3x?color=786d6d&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/nullr3x)
 
 <h3 align="center">A passionate python developer and penetration tester from India</h3>
 <hr>
