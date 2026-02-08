@@ -55,7 +55,6 @@
 
 - ✍️ I write about my journey and technical findings on my [**Medium Blog**](https://nullr3x.medium.com).
 - 🌱 I’m currently diving deep into **Cloud Security & GoLang**.
-- 📫 You can reach me at **[your-email@example.com](mailto:your-email@example.com)**.
 - ⚡ **Fun fact:** When I'm not in front of a screen, I love to draw and get lost in a good book.
 
 <hr>
