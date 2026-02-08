@@ -26,7 +26,7 @@
 <!-- Dynamic Typing -->
 <div align="center">
   <a href="https://github.com/nullr3x">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1DB954&center=true&vCenter=true&width=500&lines=Passionate+Python+Developer;Ethical+Hacker+%26+Penetration+Tester;Always+curious%2C+always+learning." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1DB954&center=true&vCenter=true&width=500&lines=Passionate+Python+Developer;Ethical+Hacker+and+Penetration+Tester;Always+curious%2C+always+learning." alt="Typing SVG" />
   </a>
 </div>
 
